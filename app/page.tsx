@@ -1,23 +1,14 @@
-'use client'
+// app/page.tsx
+import type { Metadata } from 'next'
+import HomeContent from './HomeComponent'
 
-import { useEffect } from 'react'
-import Hero from './components/Hero/Hero'
-import About from './components/About/About'
-import Projects from './components/Projects/Projects'
-import Contact from './components/Contact/Contact'
+export const metadata: Metadata = { title: 'Venkat | K B Venkataramana - Software Engineer & Full Stack Developer', 
+  description: 'Venkat (K B Venkataramana) - Experienced Software Engineer, Full Stack Developer, AI Engineer. 2X Hackathon Winner specializing in React, Python, Machine Learning. Portfolio and projects.', 
+  keywords: [ 'Venkat', 'K B Venkataramana', 'Venkataramana K B', 'Whencut', 'Software Engineer', 'Full Stack Developer', 'AI Engineer', 'React Developer', 'Python Developer', 'Portfolio', 'Hackathon Winner' ], 
+  openGraph: { title: 'Venkat (K B Venkataramana) - Software Engineer Portfolio', 
+    description: 'Portfolio of Venkat, experienced Software Engineer and Full Stack Developer.', 
+    url: '/', } }
 
-export default function Home() {
-  useEffect(() => {
-    // Scroll to top when page loads
-    window.scrollTo(0, 0)
-  }, [])
-
-  return (
-    <main className="min-h-screen bg-black">
-      <Hero />
-      <About />
-      <Projects />
-      <Contact />
-    </main>
-  )
+export default function Page() {
+  return <HomeContent />
 }
