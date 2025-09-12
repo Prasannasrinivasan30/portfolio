@@ -97,7 +97,7 @@ const Navbar = () => {
                 className="text-white font-bold text-2xl"
                 onClick={handleHomeClick}
               >
-                K B Venkataramana
+                Whencut
               </Link>
             </div>
 

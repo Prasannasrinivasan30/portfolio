@@ -54,15 +54,15 @@ const Hero = () => {
         </div>
       </div>
 
-      <div className="relative z-10 px-4 w-full max-w-7xl mx-auto">
+      <div className="relative z-10 pb-10 px-4 w-full max-w-7xl mx-auto">
         <div className="flex flex-col md:flex-row items-center justify-center gap-8 md:gap-12">
           <ScrollReveal>
-            <div className="w-64 h-64 md:w-[400px] md:h-[400px] lg:w-[500px] lg:h-[500px]">
+            <div className="w-96 h-96 md:w-[500px] md:h-[500px] lg:w-[600px] lg:h-[600px]">
               <Image
-                src="/myphoto.png"
+                src="/venkataramana.png"
                 alt="K B Venkataramana"
-                width={500}
-                height={500}
+                width={600}
+                height={600}
                 className="w-full h-full object-contain"
                 priority
               />
@@ -81,7 +81,7 @@ const Hero = () => {
                   K B Venkataramana
                 </h1>
                 <p className="text-xl text-gray-400 mt-4 font-space-grotesk">
-                  Software Developer
+                  Engineer@Heart
                 </p>
               </div>
             </ScrollReveal>

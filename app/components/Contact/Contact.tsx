@@ -37,7 +37,7 @@ export default function Contact() {
     },
     {
       id: 'twitter',
-      label: 'X (Twitter)',
+      label: 'X',
       href: 'https://x.com/encryptedvenkat',
       color: '#1DA1F2',
       icon: (
@@ -112,8 +112,8 @@ export default function Contact() {
                       >
                         {link.icon}
                       </motion.div>
-                      <h3 className="text-xl font-bold text-white">{link.label}</h3>
-                      <p className="text-gray-400 text-sm">{link.description}</p>
+                      {/* <h3 className="text-xl font-bold text-white">{link.label}</h3> */}
+                      {/* <p className="text-gray-400 text-sm">{link.description}</p> */}
                     </div>
                   </div>
                 </a>
