@@ -2,7 +2,7 @@ import { Metadata } from "next"
 
 // Enhanced SEO metadata for Venkat/Venkataramana K B
 export const siteMetadata = {
-  title: "Venkat | K B Venkataramana - Software Engineer & Developer Portfolio",
+  title: "Whencut",
   description: "Venkat (K B Venkataramana) - Experienced Software Engineer, Full Stack Developer, and Tech Innovator. 2X Hackathon Winner specializing in AI/ML, Web Development, and Problem Solving. Explore projects, skills, and professional experience.",
   keywords: [
     "Venkat",

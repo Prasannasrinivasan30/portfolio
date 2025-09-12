@@ -2,7 +2,7 @@ import { Metadata } from 'next'
 import Contact from '../components/Contact/Contact'
 
 export const metadata: Metadata = {
-  title: 'Contact Venkat | K B Venkataramana - Software Engineer',
+  title: 'Contact Whencut',
   description: 'Get in touch with Venkat (K B Venkataramana), Software Engineer and Full Stack Developer. Connect via LinkedIn, GitHub, or email for collaboration opportunities.',
   keywords: ['Contact Venkat', 'K B Venkataramana contact', 'Software Engineer contact', 'hire Venkat', 'collaboration'],
   openGraph: {

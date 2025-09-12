@@ -59,7 +59,7 @@ const structuredData = {
     "name": "Engineering College"
   },
   "award": ["2X Hackathon Winner"],
-  "email": "contact@venkataramana.dev", // Update with actual email
+  "email": "venkataramanakbala@gmail.com", 
   "birthPlace": {
     "@type": "Place",
     "name": "India"
@@ -116,7 +116,7 @@ export default function RootLayout({
       >
         {/* Hidden text for SEO - contains all name variations */}
         <div className="sr-only">
-          K B Venkataramana also known as Venkat, Venkataramana K B, Whencut - Software Engineer, 
+          K B Venkataramana also known as Venkataramana, Venkat, Venkataramana K B, Whencut - Software Engineer, 
           Full Stack Developer, AI Engineer, Machine Learning Engineer, React Developer, Python Developer, 
           2X Hackathon Winner, Tech Innovator, Problem Solver
         </div>
