@@ -22,7 +22,7 @@ export default function HomeContent() {
             "@type": "WebPage",
             "name": "Venkat Portfolio - K B Venkataramana",
             "description": "Professional portfolio of Venkat (K B Venkataramana), Software Engineer and Full Stack Developer",
-            "url": "https://venkataramana.dev",
+            "url": "https://whencut.in",
             "mainEntity": {
               "@type": "Person",
               "name": "K B Venkataramana",
