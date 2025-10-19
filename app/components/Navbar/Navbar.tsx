@@ -28,10 +28,11 @@ const Navbar = () => {
       label: 'contact', 
       href: '/contact',
       homeSection: 'contact'
-    },
+    }
+    ,
     { 
       label: 'linkedin', 
-      href: 'www.linkedin.com/in/prasanna-srinivasan-g-',
+      href: 'https://www.linkedin.com/in/prasanna-srinivasan-g-',
       className: 'text-[#39ff14]',
       external: true
     }

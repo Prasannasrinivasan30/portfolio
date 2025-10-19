@@ -26,7 +26,7 @@ export default function Contact() {
     {
       id: 'linkedin',
       label: 'LinkedIn',
-      href: 'https://www.linkedin.com/in/venkataramanakb/',
+      href: 'https://www.linkedin.com/in/prasanna-srinivasan-g-',
       color: '#0077B5',
       icon: (
         <svg className="w-8 h-8 fill-current" viewBox="0 0 24 24">
