@@ -59,8 +59,8 @@ const Hero = () => {
           <ScrollReveal>
             <div className="w-96 h-96 md:w-[500px] md:h-[500px] lg:w-[600px] lg:h-[600px]">
               <Image
-                src="/venkataramana.png"
-                alt="K B Venkataramana"
+                src="/hero.png"
+                alt="G Prasanna Srinivasan"
                 width={600}
                 height={600}
                 className="w-full h-full object-contain"
