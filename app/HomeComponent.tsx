@@ -20,13 +20,13 @@ export default function HomeContent() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Venkat Portfolio - K B Venkataramana",
-            "description": "Professional portfolio of Venkat (K B Venkataramana), Software Engineer and Full Stack Developer",
+            "name": "Prasanna Portfolio - G Prasanna Srinivasan",
+            "description": "Professional portfolio of Venkat (G Prasanna Srinivasan), Software Engineer and Full Stack Developer",
             "url": "https://whencut.in",
             "mainEntity": {
               "@type": "Person",
-              "name": "K B Venkataramana",
-              "alternateName": "Venkat",
+              "name": "G Prasanna Srinivasan",
+              "alternateName": "Prasanna",
               "jobTitle": "Software Engineer"
             }
           })
