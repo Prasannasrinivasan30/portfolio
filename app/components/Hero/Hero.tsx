@@ -81,7 +81,7 @@ const Hero = () => {
                   G Prasanna Srinivasan
                 </h1>
                 <p className="text-xl text-gray-400 mt-4 font-space-grotesk">
-                  Engineer@Heart&&Soul
+                  Engineer@Heart && Soul
                 </p>
               </div>
             </ScrollReveal>
