@@ -1,12 +1,12 @@
 import { Metadata } from 'next'
 import About from '../components/About/About'
 export const metadata: Metadata = {
-  title: 'About Whencut',
-  description: 'Explore innovative projects by Venkat (K B Venkataramana) including MedScript, LicenseLens, AI solutions, and hackathon-winning applications. Full Stack Developer portfolio.',
-  keywords: ['Venkat projects', 'K B Venkataramana portfolio', 'Software Engineer projects', 'AI projects', 'React projects', 'Python projects'],
+  title: 'About — Prasanna Srinivasan',
+  description: 'About Prasanna Srinivasan — frontend developer focused on building accessible, performant web apps. Projects include an Event Registration page and other interactive applications.',
+  keywords: ['Prasanna Srinivasan', 'Event Registration', 'Frontend Developer', 'React', 'Next.js', 'portfolio'],
   openGraph: {
-    title: 'Projects by Venkat (K B Venkataramana)',
-    description: 'Explore innovative tech projects and solutions built by Venkat.',
+    title: 'Projects by Praseanna Srinivasan',
+    description: 'Portfolio and projects by Prasanna Srinivasan, including an Event Registration page and interactive web apps.',
     url: '/projects',
   }
 }

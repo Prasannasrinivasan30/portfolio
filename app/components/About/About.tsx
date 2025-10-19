@@ -12,10 +12,15 @@ const About = () => {
   const pathname = usePathname()
 
   const commands = {
-    ls: 'Available commands:\n• whoami\n• skills\n• contact\n• clear',
-    whoami: '• I am Whencut, sometimes Venkataramana\n• I love tech and problem-solving\n• 2X Hackathon Winner & a HNI(High on Never Give Up Individual)\n• Tech @ PlanPol, AyC\n• Sleepless and high on caffine almost all the times\n• I use Linux btw ',
-    skills: 'Can Learn, relearn and unlearn anything and everything.',
-    contact: 'Contact Information:\n• GitHub: github.com/venkataramanakb\n• LinkedIn: linkedin.com/in/venkataramanakb\n• X: x.com/encryptedvenkat',
+    ls: 'Available commands:\n• whoami\n• skills\n• projects\n• contact\n• clear',
+  whoami: `Hey, I’m Prasanna Srinivasan\n• I craft digital experiences — from symposium websites to polished Next.js apps\n• Design on Figma, build with code — UI, UX, and everything in between\n• Code + caffeine = my comfort zone\n• Movie buff by night, developer by day (sometimes both at once)\n• Running on logic, creativity, and a “never-give-up” mindset`,
+  skills: `• Adapts fast, builds faster
+• I don't actually use ctrl+C && ctrl+V
+• Code, create, repeat - until it’s perfect.`,
+  projects: `• Event Registration Page — a smooth, responsive signup flow built for our college symposium.
+• Portfolio — my personal corner on the web, designed and built with Next.js and a bit of caffeine.
+• Interactive UI — playful, accessible animations with Framer Motion + GSAP.`,
+    contact: 'Contact Information:\n• GitHub: https://github.com/Prasannasrinivasan30\n• LinkedIn: www.linkedin.com/in/prasanna-srinivasan-g-\n• Email: prasanna.srinivasan.edu@gmail.com',
     clear: 'CLEAR',
     help: 'Type "ls" to see available commands'
   }

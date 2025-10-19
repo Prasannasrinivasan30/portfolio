@@ -31,7 +31,7 @@ const Navbar = () => {
     },
     { 
       label: 'linkedin', 
-      href: 'https://www.linkedin.com/in/venkataramanakb',
+      href: 'www.linkedin.com/in/prasanna-srinivasan-g-',
       className: 'text-[#39ff14]',
       external: true
     }
@@ -97,7 +97,7 @@ const Navbar = () => {
                 className="text-white font-bold text-2xl"
                 onClick={handleHomeClick}
               >
-                Whencut
+                Prasanna Srinivasan
               </Link>
             </div>
 

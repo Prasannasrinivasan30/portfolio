@@ -46,7 +46,7 @@ const Hero = () => {
       {/* Top Bar with Hello World and Time */}
       <div className="absolute top-20 w-full">
         <div className="max-w-[1800px] mx-auto px-6 sm:px-8 lg:px-10 flex justify-between items-center">
-          <p className="text-white/70 text-sm font-medium">Oh, Hello World!</p>
+          <p className="text-white/70 text-sm font-medium"> Hey chelooo !</p>
           <div className="text-white/70 text-sm font-medium flex items-center gap-2">
             <span>🇮🇳</span>
             <span>{time} IST</span>
@@ -78,10 +78,10 @@ const Hero = () => {
               </div>
               <div className="mb-6 text-center">
                 <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold bg-gradient-to-r from-[#39ff14] to-emerald-500 text-transparent bg-clip-text whitespace-nowrap font-space-grotesk">
-                  K B Venkataramana
+                  G Prasanna Srinivasan
                 </h1>
                 <p className="text-xl text-gray-400 mt-4 font-space-grotesk">
-                  Engineer@Heart
+                  Engineer@Heart&&Soul
                 </p>
               </div>
             </ScrollReveal>
@@ -89,7 +89,7 @@ const Hero = () => {
             <ScrollReveal>
               <div className="mb-4 text-center">
                 <p className="text-xl md:text-2xl text-gray-300 font-space-grotesk">
-                  Big Stepper 
+                  Builder not Dreamer ! 
                   <br className="hidden md:block" />
                 </p>
               </div>
