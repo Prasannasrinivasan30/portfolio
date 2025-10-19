@@ -3,10 +3,10 @@ import type { Metadata } from 'next'
 import HomeContent from './HomeComponent'
 
 export const metadata: Metadata = { title: 'Prasanna | Portfolio', 
-  description: 'Venkat (K B Venkataramana) - Experienced Software Engineer, Full Stack Developer, AI Engineer. 2X Hackathon Winner specializing in React, Python, Machine Learning. Portfolio and projects.', 
-  keywords: [ 'Venkataramana','Venkat', 'K B Venkataramana', 'Venkataramana K B', 'Whencut', 'Software Engineer', 'Full Stack Developer', 'AI Engineer', 'React Developer', 'Python Developer', 'Portfolio', 'Hackathon Winner' ], 
-  openGraph: { title: 'Venkat (K B Venkataramana) - Software Engineer Portfolio', 
-    description: 'Portfolio of Venkat, experienced Software Engineer and Full Stack Developer.', 
+  description: 'Prasanna (G Prasanna Srinivasan) - Experienced Software Engineer, Full Stack Developer. Portfolio and projects.', 
+  keywords: [ 'Prasanna','G Prasanna Srinivasan', 'Prasanna Srinivasan', 'Software Engineer', 'Full Stack Developer', 'React Developer', 'Portfolio' ], 
+  openGraph: { title: 'Prasanna (G Prasanna Srinivasan) - Software Engineer Portfolio', 
+    description: 'Portfolio of Prasanna, experienced Software Engineer and Full Stack Developer.', 
     url: '/', } }
 
 export default function Page() {
